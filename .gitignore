@@ -1,0 +1,32 @@
+# Extensions
+
+*._*.*
+*.bak
+*.map
+*.log
+
+# Files
+
+htpasswd
+global_settings.php
+htdocs/googled54ed7b79f43170c.html
+htdocs/B72300B396139C2F05782D5E1146211F.txt
+htdocs/server_test.php
+htdocs/php.ini
+*.crt
+*.csr
+*.key
+*.sql
+
+robots.txt
+Thumbs.db
+
+# Directories
+
+/logs
+*/clients
+*/phpmailer
+*/securimage
+*/swml
+htdocs/ppc/*
+htdocs/test/*
