@@ -17,6 +17,9 @@ htdocs/php.ini
 *.csr
 *.key
 *.sql
+*.jpg
+*.gif
+*.css
 
 robots.txt
 Thumbs.db
@@ -30,3 +33,6 @@ Thumbs.db
 */swml
 htdocs/ppc/*
 htdocs/test/*
+htdocs/img/*
+htdocs/images/*
+cmservices-include/*
