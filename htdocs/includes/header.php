@@ -35,15 +35,15 @@
 			
 			<div id="nav">
 				<ul>
-					<li><a href="/services.php" title="Bookkeeping Services">Bookkeeping Services</a></li>
-					<li><a href="/madison-accountants.php" title="Madison Accountants">Madison Accountants</a></li>
-					<li><a href="/madison-bookkeepers.php" title="Madison Bookkeepers">Madison Bookkeepers</a></li>
-					<li><a href="/madison-payroll-services.php" title="Madison Payroll Services">Madison Payroll Services</a></li>
-					<li><a href="/benefits.php" title="Benefits of our Bookkeeping Services">Benefits of our Bookkeeping Services</a></li>
-					<li><a href="/about.php" title="About C M Business Services">About C M Business Services</a></li>
-					<li><a href="/testimonials.php" title="What our clients have to say about us">What our clients have to say about us</a></li>
-					<li><a href="/contact.php" title="Contact us">Contact us</a></li>
-                    <li><a href="/special-offer.php" title="Special Offers">Special Offers</a></li>
+					<li><a href="/services" title="Bookkeeping Services">Bookkeeping Services</a></li>
+					<li><a href="/madison-accountants" title="Madison Accountants">Madison Accountants</a></li>
+					<li><a href="/madison-bookkeepers" title="Madison Bookkeepers">Madison Bookkeepers</a></li>
+					<li><a href="/madison-payroll-services" title="Madison Payroll Services">Madison Payroll Services</a></li>
+					<li><a href="/benefits" title="Benefits of our Bookkeeping Services">Benefits of our Bookkeeping Services</a></li>
+					<li><a href="/about" title="About C M Business Services">About C M Business Services</a></li>
+					<li><a href="/testimonials" title="What our clients have to say about us">What our clients have to say about us</a></li>
+					<li><a href="/contact" title="Contact us">Contact us</a></li>
+                    <li><a href="/special-offer" title="Special Offers">Special Offers</a></li>
 					
 				</ul>
 			</div>
@@ -55,7 +55,7 @@
 				
 				<p>Tel: (608) 241-4526<br />
 				Fax: (262) 364-2107<br />
-				<a href="contact.php" title="Contact C M Business Services">Contact C M Business Services</a></p>
+				<a href="/contact" title="Contact C M Business Services">Contact C M Business Services</a></p>
 			</div>
             
             <div id="tagline">&nbsp;</div>
