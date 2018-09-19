@@ -1,11 +1,8 @@
 <?php $pageTitle="Madison Payroll Services | Payroll Management Madison WI | CM Business Services-USA"; ?>
-<meta name="description" content="Madison payroll service providers from CM Business Services offer several options to manage your small business payroll management efficiently at affordable costs.">
-<meta name="keywords" content="madison payroll, madison payroll services, madison payroll management, wisconsin payroll, wisconsin payroll services, wisconsin payroll management">
-
+<?php $metaDescription="Madison payroll service providers from CM Business Services offer several options to manage your small business payroll management efficiently at affordable costs."; ?>
+<?php $metaKeywords="madison payroll, madison payroll services, madison payroll management, wisconsin payroll, wisconsin payroll services, wisconsin payroll management"; ?>
 <?php include("includes/header.php"); ?>
-</head>
 
-<body>
 <div id="content">
 <h1>Madison Payroll Services WI</h1>
 <p>CM Business Services proudly offers you and your small business, several ways to handle your Madison payroll management system efficiently. Payroll management is as important to any business as its bookkeeping and accounting procedures.</p> 
@@ -82,7 +79,3 @@ We’ll be able to give you maximum assistance with the following:
 </div>
 
 <?php include("includes/footer.php"); ?>
-
-</body>
-
-</html>

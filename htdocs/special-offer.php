@@ -1,10 +1,6 @@
 <?php $pageTitle="Special Offers for Bookkeeping Services & Financial Reporting"; ?>
-
-
-<?php $thisPage="<meta name='description' content='Specials offers for Bookkeeping Services & Financial Reporting'>
-
-<meta name='keywords' content='Special Offers'>"; ?>
-
+<?php $metaDescription="Specials offers for Bookkeeping Services & Financial Reporting"; ?>
+<?php $metaKeywords="Special Offers"; ?>
 <?php include("includes/header.php"); ?>
 		
 			<div id="content">

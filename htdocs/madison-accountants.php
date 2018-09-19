@@ -1,11 +1,8 @@
 <?php $pageTitle="Madison Accountant | Accounting Services Madison WI | CM Business Services-USA"; ?>
-<meta name="description" content="Madison accountants from CM Business Services provide quality accounting services such as monthly financial reporting, tax preparation, small business accounting services and a lot more at affordable prices. Contact us today for all your accounting needs.">
-<meta name="keywords" content="madison accountants, madison accounting services, wisconsin accountants, winsconsin accounting">
-
+<?php $metaDescription="Madison accountants from CM Business Services provide quality accounting services such as monthly financial reporting, tax preparation, small business accounting services and a lot more at affordable prices. Contact us today for all your accounting needs."; ?>
+<?php $metaKeywords="madison accountants, madison accounting services, wisconsin accountants, winsconsin accounting"; ?>
 <?php include("includes/header.php"); ?>
-</head>
 
-<body>
 <div id="content">
 <h1>Madison Accounting Services WI</h1>
 <p>CM Business Services is one of the best accounting firms in Madison. We cater to every accounting requirement of our small business clients using both the latest and the traditional accounting practices as necessary.</p>
@@ -72,7 +69,3 @@ Cash flow management is vital for every business to survive. It has to be carefu
 </div>
 
 <?php include("includes/footer.php"); ?>
-
-</body>
-
-</html>

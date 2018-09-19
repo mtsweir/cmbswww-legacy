@@ -1,12 +1,6 @@
 <?php $pageTitle="Testimonies - CM Business Services - Bookkeeping Services & Financial Reporting"; ?>
-
-
-<?php $thisPage="<meta name='description' content='CM Business Services offers a full range of financial services including financial reporting, bookkeeping services, payroll management, quickbooks training and accounts receivable. Contact us today for a consultation.
-
-'>
-
-<meta name='keywords' content='CM Business Services - Bookkeeping Services & Financial Reporting'>"; ?>
-
+<?php $metaDescription="CM Business Services offers a full range of financial services including financial reporting, bookkeeping services, payroll management, quickbooks training and accounts receivable. Contact us today for a consultation."; ?>
+<?php $metaKeywords="CM Business Services - Bookkeeping Services & Financial Reporting"; ?>
 <?php include("includes/header.php"); ?>
 		
 			<div id="content">

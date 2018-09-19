@@ -1,16 +1,7 @@
 <?php $pageTitle="Bookeeping Services, Quickbooks Consulting & Financial Reporting from CM Business Services"; ?>
-
-
-<?php $thisPage="<meta name='description' content='CM Business Services offers a full range of bookkeeping services and  financial services including financial reporting, bookkeeping services, payroll management, quickbooks training and accounts receivable. Contact us today for a consultation!'>
-
-<meta name='keywords' content='Bookkeeping Services,  Financial Reporting'>"; ?>
-
-
+<?php $metaDescription="CM Business Services offers a full range of bookkeeping services and  financial services including financial reporting, bookkeeping services, payroll management, quickbooks training and accounts receivable. Contact us today for a consultation!"; ?>
+<?php $metaKeywords="Bookkeeping Services,  Financial Reporting"; ?>
 <?php include("includes/header.php"); ?>
-</head>
-
-		
-			<body>
 
 <div id="content">
 <h1>We Offer Complete Bookkeeping Services<br />and Financial Reporting</h1>
@@ -200,5 +191,3 @@ with your requirements. </p>
 </div>
 
 <?php include("includes/footer.php"); ?>
-</body>
-</html>
