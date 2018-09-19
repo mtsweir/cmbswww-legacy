@@ -28,6 +28,7 @@ Thumbs.db
 # Directories
 
 /logs
+*/max_bkup
 */clients
 */phpmailer
 */securimage
