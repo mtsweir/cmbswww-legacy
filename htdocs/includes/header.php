@@ -1,12 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta charset="UTF-8">
 	<title><?= $pageTitle ?></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="author" content="Karen Rubado - http://www.karebou.com" />
 	<meta name="Copyright" content="&copy; 2007 http://www.cmbusinessservices.com" />
 	<?= $thisPage ?>
-			
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="css/ie6.css" /><![endif]-->
 	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css" /><![endif]-->	
