@@ -29,7 +29,7 @@
                 <div id="benefits-top">&nbsp;</div>
                 
                 <div id="benefits-mid">
-					<p>“C M Business Services has handled everything accurately and on-time. My financial reporting and tax preparation is also much easier to manage.”</p>
+					<p>&ldquo;C M Business Services has handled everything accurately and on-time. My financial reporting and tax preparation is also much easier to manage.&rdquo;</p>
                     <p class="testimonial"><a href="http://www.netconcepts.com" title="Netconcepts" target="_blank">Jody Hartwig, Managing Director, Netconcepts LLC,</a></p>
                 </div>
                 
@@ -42,7 +42,7 @@
                 <div id="benefits-top">&nbsp;</div>
                 
                 <div id="benefits-mid">
-					<p>“As a local CPA, I have had the opportunity to review Cara’s work as an outsourced bookkeeper, and find it to be exemplary. I highly recommend her to any organization that is looking to outsource this critical function. C M Business Services has a proven track record for timely, accurate and organized service.”</p>
+					<p>&ldquo;As a local CPA, I have had the opportunity to review Caras work as an outsourced bookkeeper, and find it to be exemplary. I highly recommend her to any organization that is looking to outsource this critical function. C M Business Services has a proven track record for timely, accurate and organized service.&rdquo;</p>
                     <p class="testimonial"><a href="http://www.pscpas.com" title="Porter & Sack CPAs" target="_blank">Janet Renfert, CPA, Porter &amp; Sack CPAs (former CPA, Partner, Smith &amp; Gesteland, LLP)</a></p>
                 </div>
                 
@@ -55,7 +55,7 @@
                 <div id="benefits-top">&nbsp;</div>
                 
                 <div id="benefits-mid">
-					<p>“My business has experienced much growth in the past few years and I could not keep my business records in order. I needed someone trustworthy and efficient with time management. I have been extremely happy with the services that C M Business Services has provided.”</p>
+					<p>&ldquo;My business has experienced much growth in the past few years and I could not keep my business records in order. I needed someone trustworthy and efficient with time management. I have been extremely happy with the services that C M Business Services has provided.&rdquo;</p>
                     <p class="testimonial">Matt Feldman, Owner,  Windsor Lawns LLC</p>
                 </div>
                 
@@ -69,7 +69,7 @@
                 <div id="benefits-top">&nbsp;</div>
                 
                 <div id="benefits-mid">
-					<p>“Cara is a top-notch professional. Her knowledge of the construction industry is an asset to my business. Her organizational skills and Quickbooks Pro knowledge has increased my productivity. I would highly recommend her.”</p>
+					<p>&ldquo;Cara is a top-notch professional. Her knowledge of the construction industry is an asset to my business. Her organizational skills and Quickbooks Pro knowledge has increased my productivity. I would highly recommend her.&rdquo;</p>
                     <p class="testimonial"><a href="http://www.silverstoneconstruction.com/aboutus.htm" title="Silver Stone Construction" target="_blank">Patrick J. Ceithamer, President, SilverStone Construction, Inc.</a></p>
                 </div>
                 
@@ -81,7 +81,7 @@
            
              <h2 class="businesses">Businesses we've worked with</h2>
              
-             <p>Below are some of the different types of businesses that C M Business Services have worked with. Don’t worry if you don’t see your business here! We cater to any type of small company or enterprise.</p>
+             <p>Below are some of the different types of businesses that C M Business Services have worked with. Don't worry if you don't see your business here! We cater to any type of small company or enterprise.</p>
              <div id="clients">
              	<div id="clients-left">
                 	<ul>

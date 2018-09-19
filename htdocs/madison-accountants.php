@@ -43,9 +43,9 @@ Tax is yet another important part of a business. We, as your Madison accountants
 <h4>Cash flow Management</h4>
 Cash flow management is vital for every business to survive. It has to be carefully monitored for a business to do well. CM Business Services, your Madison accountants, handle the cash flow management to help safeguard the financial security of your business.
 <ul>
-<li>As the first and the most important step in this direction, we believe in improving the quality and accuracy of the financial statements. Timely preparation of the statements also plays a crucial role in productivity.<l/i> 
+<li>As the first and the most important step in this direction, we believe in improving the quality and accuracy of the financial statements. Timely preparation of the statements also plays a crucial role in productivity.</li> 
 <li>We help you with accurate cash flow projections, as cash flow analysis of a business is always given prime importance by financial institutions with regard to loan repayment.
-<li>We give you suitable advice regarding control of cash flow in and out of your business. By matching your Accounts Receivable to predict cash inflows and Accounts Payable to assess future cash outflows, you’ll be able to decide on a future course of action to take your business on the right track</li> 
+<li>We give you suitable advice regarding control of cash flow in and out of your business. By matching your Accounts Receivable to predict cash inflows and Accounts Payable to assess future cash outflows, you'll be able to decide on a future course of action to take your business on the right track</li> 
 <li>We help you understand the cash flow cycle of your business, so you can control it efficiently.</li>
 </ul>
 <br />
