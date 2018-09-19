@@ -2,10 +2,8 @@
 session_start();
 
 $pageTitle="Contact CM Business Services for Bookkeeping Services & Financial Reporting";
-
-$thisPage="<meta name='description' content='Contact your local Madison bookkeeping service provider - CM Business Services. We can provide your small business with expert bookkeeping services. Our experienced team can help with all your financial reporting, payroll management, quickbooks training and bookkeeping duties. And these are just some of the services we offer!'>
-
-<meta name='keywords' content='Madison Bookkeeping Services'>";
+$metaDescription="Contact your local Madison bookkeeping service provider - CM Business Services. We can provide your small business with expert bookkeeping services. Our experienced team can help with all your financial reporting, payroll management, quickbooks training and bookkeeping duties. And these are just some of the services we offer!";
+$metaKeywords="Madison Bookkeeping Services";
 
 $errormsg = '';
 

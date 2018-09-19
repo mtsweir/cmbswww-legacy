@@ -1,10 +1,6 @@
 <?php $pageTitle="About US CM Business Services"; ?>
-
-
-<?php $thisPage="<meta name='description' content='C M Business Services is owned and operated by Cara Martinson a UW-Madison graduate with nearly six years of experience in bookkeeping, financial reporting and operating computerized programs like Quickbooks.'>
-
-<meta name='keywords' content='CM Business Services - Bookkeeping Services & Financial Reporting'>"; ?>
-
+<?php $metaDescription="C M Business Services is owned and operated by Cara Martinson a UW-Madison graduate with nearly six years of experience in bookkeeping, financial reporting and operating computerized programs like Quickbooks."; ?>
+<?php $metaKeywords="CM Business Services - Bookkeeping Services & Financial Reporting"; ?>
 <?php include("includes/header.php"); ?>
 		
 			<div id="content">

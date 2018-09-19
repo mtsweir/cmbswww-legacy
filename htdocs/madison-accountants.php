@@ -1,11 +1,8 @@
 <?php $pageTitle="Madison Accountant | Accounting Services Madison WI | CM Business Services-USA"; ?>
-<meta name="description" content="Madison accountants from CM Business Services provide quality accounting services such as monthly financial reporting, tax preparation, small business accounting services and a lot more at affordable prices. Contact us today for all your accounting needs.">
-<meta name="keywords" content="madison accountants, madison accounting services, wisconsin accountants, winsconsin accounting">
-
+<?php $metaDescription="Madison accountants from CM Business Services provide quality accounting services such as monthly financial reporting, tax preparation, small business accounting services and a lot more at affordable prices. Contact us today for all your accounting needs."; ?>
+<?php $metaKeywords="madison accountants, madison accounting services, wisconsin accountants, winsconsin accounting"; ?>
 <?php include("includes/header.php"); ?>
-</head>
 
-<body>
 <div id="content">
 <h1>Madison Accounting Services WI</h1>
 <p>CM Business Services is one of the best accounting firms in Madison. We cater to every accounting requirement of our small business clients using both the latest and the traditional accounting practices as necessary.</p>
@@ -46,9 +43,9 @@ Tax is yet another important part of a business. We, as your Madison accountants
 <h4>Cash flow Management</h4>
 Cash flow management is vital for every business to survive. It has to be carefully monitored for a business to do well. CM Business Services, your Madison accountants, handle the cash flow management to help safeguard the financial security of your business.
 <ul>
-<li>As the first and the most important step in this direction, we believe in improving the quality and accuracy of the financial statements. Timely preparation of the statements also plays a crucial role in productivity.<l/i> 
+<li>As the first and the most important step in this direction, we believe in improving the quality and accuracy of the financial statements. Timely preparation of the statements also plays a crucial role in productivity.</li> 
 <li>We help you with accurate cash flow projections, as cash flow analysis of a business is always given prime importance by financial institutions with regard to loan repayment.
-<li>We give you suitable advice regarding control of cash flow in and out of your business. By matching your Accounts Receivable to predict cash inflows and Accounts Payable to assess future cash outflows, you’ll be able to decide on a future course of action to take your business on the right track</li> 
+<li>We give you suitable advice regarding control of cash flow in and out of your business. By matching your Accounts Receivable to predict cash inflows and Accounts Payable to assess future cash outflows, you'll be able to decide on a future course of action to take your business on the right track</li> 
 <li>We help you understand the cash flow cycle of your business, so you can control it efficiently.</li>
 </ul>
 <br />
@@ -72,7 +69,3 @@ Cash flow management is vital for every business to survive. It has to be carefu
 </div>
 
 <?php include("includes/footer.php"); ?>
-
-</body>
-
-</html>

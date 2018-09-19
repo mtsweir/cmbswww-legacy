@@ -1,10 +1,6 @@
 <?php $pageTitle="Special Offers for Bookkeeping Services & Financial Reporting"; ?>
-
-
-<?php $thisPage="<meta name='description' content='Specials offers for Bookkeeping Services & Financial Reporting'>
-
-<meta name='keywords' content='Special Offers'>"; ?>
-
+<?php $metaDescription="Specials offers for Bookkeeping Services & Financial Reporting"; ?>
+<?php $metaKeywords="Special Offers"; ?>
 <?php include("includes/header.php"); ?>
 		
 			<div id="content">
@@ -27,7 +23,7 @@
                     Trial our Bookkeeping service for 3 months and save $150 on the total cost. A minimum monthly bookkeeping fee of $150 applies. This is at least a 33% savings! <a href="contact.php" title="Email C M Business Services">Email us</a> now to begin saving!</p>
                     
                     <p><span class="bold">FREE Quickbooks&reg; Set Up</span><br />
-                    Become a C M Business Services client (minimum 3 months) and we’ll take care of all the initial Quickbooks&reg; set up and implementation FREE of charge (usually $199).
+                    Become a C M Business Services client (minimum 3 months) and we'll take care of all the initial Quickbooks&reg; set up and implementation FREE of charge (usually $199).
                 </div>
                 
                 <div id="benefits-btm">&nbsp;</div>

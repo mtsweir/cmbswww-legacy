@@ -1,15 +1,7 @@
 <?php $pageTitle="Madison Bookkeeping Services | CM Business Services - Madison, WI, USA"; ?>
-
-
-  <meta name="description" content="Madison bookkeeping services from CM Business Services. We can provide your small business with expert bookkeeping services. Our experienced team can help with all your financial reporting, payroll management, quickbooks training and bookkeeping duties. And these are just some of the services we offer!
-">
-
-  <meta name="keywords" content="madison bookkeeping services">
+<?php $metaDescription="Madison bookkeeping services from CM Business Services. We can provide your small business with expert bookkeeping services. Our experienced team can help with all your financial reporting, payroll management, quickbooks training and bookkeeping duties. And these are just some of the services we offer!"; ?>
+<?php $metaKeywords="madison bookkeeping services"; ?>
 <?php include("includes/header.php"); ?>
-</head>
-
-
-<body>
 
 <div id="content">
 <div id="intro">
@@ -45,5 +37,3 @@ today to schedule a FREE consultation.</p>
 </div>
 
 <?php include("includes/footer.php"); ?>
-</body>
-</html>

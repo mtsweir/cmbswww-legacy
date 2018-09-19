@@ -1,11 +1,8 @@
 <?php $pageTitle="Madison Payroll Services | Payroll Management Madison WI | CM Business Services-USA"; ?>
-<meta name="description" content="Madison payroll service providers from CM Business Services offer several options to manage your small business payroll management efficiently at affordable costs.">
-<meta name="keywords" content="madison payroll, madison payroll services, madison payroll management, wisconsin payroll, wisconsin payroll services, wisconsin payroll management">
-
+<?php $metaDescription="Madison payroll service providers from CM Business Services offer several options to manage your small business payroll management efficiently at affordable costs."; ?>
+<?php $metaKeywords="madison payroll, madison payroll services, madison payroll management, wisconsin payroll, wisconsin payroll services, wisconsin payroll management"; ?>
 <?php include("includes/header.php"); ?>
-</head>
 
-<body>
 <div id="content">
 <h1>Madison Payroll Services WI</h1>
 <p>CM Business Services proudly offers you and your small business, several ways to handle your Madison payroll management system efficiently. Payroll management is as important to any business as its bookkeeping and accounting procedures.</p> 
@@ -15,7 +12,7 @@
 <h2>We offer the following payroll management services:</h2>
 <br />
 <h4>Computerized Payroll Processing</h4>
-With our computerized payroll processing, you’ll find the entire payroll system much simpler to handle than ever before. The payroll software enhances your business potential through accurate processing of salary and deductions.
+With our computerized payroll processing, you'll find the entire payroll system much simpler to handle than ever before. The payroll software enhances your business potential through accurate processing of salary and deductions.
 <ul> 
 <li>We help you create an employee database, so generating and managing payroll processes become simplified</li> 
 <li>We handle all your Madison payroll transactions for you thereby saving you a lot of time and money</li>
@@ -33,7 +30,7 @@ Preparing and filing payroll tax returns is an important part of any payroll man
 
 <h4>Prepare Payroll Taxes</h4>
 <ul> 
-<li>We calculate payroll taxes taking into account the employees’ deductions</li>
+<li>We calculate payroll taxes taking into account the employees deductions</li>
 <li>We take care of all your W-2, 1099 and the consolidated W-3 forms, sending them to the SSA at the end of the year</li>
 <li>We promise to file all your payroll tax returns in time, thus avoiding any penalty for late submission</li>
 </ul>
@@ -44,13 +41,13 @@ Details of every employee of an organization need to be maintained in a systemat
 <ul>
 <li>We maintain and update employee profiles</li>
 <li>Employee information on W-9, I-9 and WT-4 are ensured</li>
-<li>We undertake to keep the employees’ personal information confidential</li>
+<li>We undertake to keep the employees personal information confidential</li>
 </ul>
 <br />
 
 <h4>Pay Checks</h4>
 The advancements in technology have helped solve a multitude of payroll issues within any business, big or small.  Pay schedules are run using the latest Quickbooks software. Multiple pay frequencies are also possible with Quickbooks. <br/>
-We’ll be able to give you maximum assistance with the following:
+We'll be able to give you maximum assistance with the following:
 <ul> 
 <li>Process and print paychecks for your employees </li>
 <li>Set up paychecks to be directly credited to their bank accounts for an extra fee</li>
@@ -82,7 +79,3 @@ We’ll be able to give you maximum assistance with the following:
 </div>
 
 <?php include("includes/footer.php"); ?>
-
-</body>
-
-</html>

@@ -3,15 +3,16 @@
 <head>
 	<meta charset="UTF-8">
 	<title><?= $pageTitle ?></title>
+	<meta name="description" content="<?= $metaDescription ?>">
+	<meta name="keywords" content="<?= $metaKeywords?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="author" content="Karen Rubado - http://www.karebou.com" />
 	<meta name="Copyright" content="&copy; 2007 http://www.cmbusinessservices.com" />
-	<?= $thisPage ?>
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
-	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="css/ie6.css" /><![endif]-->
-	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css" /><![endif]-->	
 	<link rel="stylesheet" type="text/css" href="css/forms.css" />
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="css/ie6.css" /><![endif]-->
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css" /><![endif]-->
 </head>
 <body>
 

@@ -1,16 +1,8 @@
 <?php $pageTitle="Bookkeeping Benefits - Accounting Bookkeeping Services & Financial Services | CM Business Services"; ?>
-
-
-<?php $thisPage="<meta name='description' content='Our accounting bookkeeping service is ideal
-for any small business that has grown to the point where they can't, or no longer want to, handle day to day financial duties. From payroll management to tax preparation we have business services to assist you. Madison's leading bookkeeping service provider.'>
-
-<meta name='keywords' content='bookkeeping benefits, accounting bookkeeping service'>"; ?>
-
+<?php $metaDescription="Our accounting bookkeeping service is ideal
+for any small business that has grown to the point where they can't, or no longer want to, handle day to day financial duties. From payroll management to tax preparation we have business services to assist you. Madison's leading bookkeeping service provider"; ?>
+<?php $metaKeywords="bookkeeping benefits, accounting bookkeeping service"; ?>
 <?php include("includes/header.php"); ?>
-</head>
-
-		
-<body>
 
 <div id="content">
 <h1>Benefits of our bookkeeping services</h1>
@@ -99,5 +91,3 @@ payroll expenses and will reduce your overhead costs. </p>
 </div>
 
 <?php include("includes/footer.php"); ?>
-</body>
-</html>
