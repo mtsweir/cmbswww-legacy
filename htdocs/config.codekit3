@@ -2641,11 +2641,25 @@
 		"oAP": "/build/max_bkup/contact.php",
 		"oF": 0
 		},
+	"/max_bkup/includes/footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/build/max_bkup/includes/footer.php",
+		"oF": 0
+		},
 	"/max_bkup/includes/header.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/max_bkup/includes/header.php",
+		"oF": 0
+		},
+	"/max_bkup/includes/header_bkup.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/build/max_bkup/includes/header_bkup.php",
 		"oF": 0
 		},
 	"/max_bkup/index.php": {
